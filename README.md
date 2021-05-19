@@ -15,3 +15,7 @@ As soon as the user enters the page, he will see 0 as the value of the counter a
 - HTML5
 - CSS3
 - JavaScript
+
+#### Deploy
+
+[Deploy Counter](https://monicabartha.github.io/s2i-js-basics/).
