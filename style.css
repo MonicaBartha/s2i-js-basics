@@ -1,0 +1,51 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-size: 60px;
+}
+.content {
+  padding-top: 5%;
+  flex-direction: column;
+}
+.display {
+  display: flex;
+  justify-content: center;
+}
+.counter-display {
+  font-size: 60px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.counter-minus,
+.counter-plus {
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  color: white;
+  border: none;
+}
+.counter-minus {
+  background-color: goldenrod;
+}
+.counter-plus {
+  background-color: tomato;
+}
+.clear-btn {
+  display: flex;
+  justify-content: center;
+}
+.clear {
+  width: 70%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: lightseagreen;
+  border: none;
+  color: white;
+}
